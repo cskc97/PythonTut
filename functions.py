@@ -33,3 +33,13 @@ def testFunc(*args):
     #args now becomes a tuple and is thus immutable. 
 
 testFunc(12,3,4)
+
+def kwargsfunc(**kwargs):
+    print(kwargs["one"])
+kwargsfunc(one=1);
+
+#kwargs func is defining named arguments from the call which are then 
+# retrieved from the functions. kwargs is actuaally a dictionary. 
+
+#*args will preserve order as it is a list and **kwargs probably
+# wont because it is a dictionary (also called a map)
