@@ -16,3 +16,6 @@ print(list[2:5:2]);
 listTwo = list[5:10]
 
 print(listTwo);
+
+# SIDE NOTE: Comparison operators(in, not in, is, is not, <, <=, etc..) are evaluated right to left
+#booleans are evaluated left to right. 
