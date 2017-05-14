@@ -11,6 +11,7 @@ def main():
 			print("Now Replacing");
 			print(re.sub('(Len|Neverm)ore','###',line))
 
+
 	print("After Replacement")
 	fh.seek(0); #resets the file pointer
 
@@ -18,6 +19,15 @@ def main():
 		print(line);
 	else:
 		print("End Reached");
+
+	fh.seek(0);
+	pattern = re.compile('(Len|Neverm)ore',re.IGNORECASE);
+	for line in fh:
+		if re.search(pattern,line):
+			print(line);
+			print(pattern.sub('###',line))
+
+
 
 
 
