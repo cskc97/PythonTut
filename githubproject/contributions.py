@@ -1,6 +1,7 @@
 from github import Github
 from github.AuthenticatedUser import AuthenticatedUser
-from github.StatsCommitActivity import  StatsCommitActivity
+from github.StatsCommitActivity import StatsCommitActivity
+from github import GithubObject
 import requests
 import json
 from multiprocessing import Process
