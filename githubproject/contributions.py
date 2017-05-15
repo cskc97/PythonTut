@@ -1,9 +1,12 @@
-import grequests
+from github import Github
+from github.AuthenticatedUser import AuthenticatedUser
+from github.StatsCommitActivity import  StatsCommitActivity
 import requests
 import json
 from multiprocessing import Process
 from multiprocessing import Manager
 import operator
+import datetime
 
 # Contributions are counted as follows -
 # Issues, pull requests, forks, commits
@@ -15,9 +18,18 @@ import operator
 # the resulting array would span 365 days and have all the commits for each of those 365 days
 
 
+today = datetime.datetime.now()
+
+
+print(type(int(today.strftime('%j'))))
+
+
 class GhContributions:
-    def __init__(self,username):
+    def __init__(self,username,password):
         self.userName = username
+        self.password = password
+        r = requests.get('https://api.github.com/user', auth=('username', 'password'))
+        self.authenticatedUser = Github(username,password).get_user()
 
 
     def getRepos(self): #this function returns the users repos
@@ -65,12 +77,27 @@ class GhContributions:
             proc.join()
 
         for key in shared_dict:
+
             returnList=map(operator.add(),returnList,shared_dict[key])
 
         return returnList
 
+    def getContributions(self):
+        commitList = self.getCommits()
+        issues = self.authenticatedUser.get_user_issues()
+        for issue in issues:
+            datetimeVal = issue.created_at
+            intDate = int(today.strftime('%j'))
+            commitList[intDate]+=1
 
-     
+        return commitList
+
+
+
+
+
+
+
 
 
 
@@ -79,11 +106,10 @@ class GhContributions:
 
 if __name__ == '__main__':
 
-    gh = GhContributions("cskc97")
+    gh = GhContributions("username","password")
     gh.getRepos()
-    dict = gh.getCommits()
-    for key in dict:
-        print(key,dict[key])
+    print(gh.getCommits())
+
 
 
 
