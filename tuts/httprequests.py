@@ -7,4 +7,4 @@ print(r.json());
 
 jsonString = r.text;
 data = json.loads(jsonString);
-print data['public_repos'];
+print(data['public_repos']);
