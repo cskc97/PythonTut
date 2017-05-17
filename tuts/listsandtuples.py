@@ -16,4 +16,11 @@ def main():
 	for val in tupleVal:
 		print(val+1,"Prints things 100 times");
 	print(tupleVal);
+
+	#tuples are created with ()
+	#lists are created with []
+
+	#tuples are IMMUTABLE and so they can't be changed
+	#lists are MUTABLE and so they can be changed
+	
 main()
