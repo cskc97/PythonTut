@@ -27,8 +27,25 @@ def main():
     print(s.lower())
     print(s.swapcase())
     print(s.find('is'))
+    print("\n")
 
     # s.strip() will remove spaces before and after string and also newline character
-    # s.rstrip(arg) will remove the arg from the string. 
+    # s.rstrip(arg) will remove the arg from the string.
+    print("Trying out the format method\n")
+
+    #format() method
+    a,b = 5,42
+    print(a,b)
+
+    print("This is {nemo} and that is {dory}".format(nemo="Nemo",dory="Dory"))
+    print("{{This is inside curly braces}}".format())
+
+    stringSplit = "Santhoshkrishnachaitanya Chelikavada is my full name"
+    print(stringSplit.split())
+    print(stringSplit.split('a'))
+    splitList = stringSplit.split()
+    print(splitList)
+    joinList = ','.join(splitList)
+    print(joinList)
 
 main()
