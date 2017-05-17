@@ -12,15 +12,23 @@ def main():
 	print(str[2]); #prints 
 	print(str[1:4]); #prints tri. This is called slicing. It prints indices 1 to 4-1 = 3
 
+	print(listVal[0:2])
 	tupleVal = range(0,100);
-	for val in tupleVal:
-		print(val+1,"Prints things 100 times");
-	print(tupleVal);
+	# for val in tupleVal:
+	# 	print(val+1,"Prints things 100 times");
+	# print(tupleVal);
 
 	#tuples are created with ()
 	#lists are created with []
 
 	#tuples are IMMUTABLE and so they can't be changed
 	#lists are MUTABLE and so they can be changed
-	
+
+	t = tuple(range(25))
+	l = list(range(25))
+
+	print(t)
+	print(l)
+
+
 main()
