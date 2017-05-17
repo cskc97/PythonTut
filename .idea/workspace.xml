@@ -24,6 +24,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/AndroidStudioProjects/BoMap/.idea/vcs.xml" afterPath="$USER_HOME$/AndroidStudioProjects/BoMap/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/AndroidStudioProjects/BoMap/app/src/main/java/com/everythingforward/bomap/service/SecondDataService.java" afterPath="$USER_HOME$/AndroidStudioProjects/BoMap/app/src/main/java/com/everythingforward/bomap/service/SecondDataService.java" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/test/TestClass.php" afterPath="$USER_HOME$/PhpstormProjects/test/TestClass.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tuts/dictionaries.py" afterPath="$PROJECT_DIR$/tuts/dictionaries.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,21 +39,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="listsandtuples.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="listsandtuples.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuts/listsandtuples.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="-135">
               <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dictionaries.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dictionaries.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tuts/dictionaries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="355">
+              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -94,6 +95,7 @@
         <option value="$PROJECT_DIR$/tuts/decorators.py" />
         <option value="$PROJECT_DIR$/tuts/strings.py" />
         <option value="$PROJECT_DIR$/tuts/listsandtuples.py" />
+        <option value="$PROJECT_DIR$/tuts/dictionaries.py" />
       </list>
     </option>
   </component>
@@ -209,24 +211,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.listsandtuples">
-    <configuration default="false" name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonTut" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/classes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.dictionaries">
     <configuration default="false" name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,6 +276,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonTut" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/listsandtuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonTut" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -443,19 +445,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.classes" />
-      <item index="1" class="java.lang.String" itemvalue="Python.generator" />
-      <item index="2" class="java.lang.String" itemvalue="Python.decorators" />
-      <item index="3" class="java.lang.String" itemvalue="Python.strings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.listsandtuples" />
+      <item index="0" class="java.lang.String" itemvalue="Python.generator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.decorators" />
+      <item index="2" class="java.lang.String" itemvalue="Python.strings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.listsandtuples" />
+      <item index="4" class="java.lang.String" itemvalue="Python.dictionaries" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.listsandtuples" />
-        <item index="1" class="java.lang.String" itemvalue="Python.strings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.decorators" />
-        <item index="3" class="java.lang.String" itemvalue="Python.generator" />
-        <item index="4" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="1" class="java.lang.String" itemvalue="Python.listsandtuples" />
+        <item index="2" class="java.lang.String" itemvalue="Python.strings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.decorators" />
+        <item index="4" class="java.lang.String" itemvalue="Python.generator" />
       </list>
     </recent_temporary>
   </component>
@@ -470,7 +472,7 @@
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5106838" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="0" y="0" width="364" height="838" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -580,14 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuts/dictionaries.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuts/classes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -622,8 +616,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuts/listsandtuples.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="-135">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuts/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding />
         </state>
       </provider>

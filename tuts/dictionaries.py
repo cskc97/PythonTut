@@ -21,5 +21,18 @@ def main():
 	print("Using Dict");
 	print(dictionaryUsingDict);
 
+
+	d = {"one":1,"two":2}
+	dictd = dict(one=1,two=2)
+	dicttwo = dict(three=3)
+	dicttwo = dict(three=3,**dictd)
+	print(dictd)
+	print(dicttwo)
+
+	print(dictd["one"])
+	print(dictd.get("one"))
+	dictd.pop("one")
+	print(dictd)
+
 main();
 
