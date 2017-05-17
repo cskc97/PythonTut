@@ -41,9 +41,12 @@
       <file leaf-file-name="classes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tuts/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding />
+            <state relative-caret-position="374">
+              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <marker date="1495016569413" expanded="true" signature="186:240" ph="..." />
+                <marker date="1495016569413" expanded="true" signature="319:337" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -568,9 +571,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuts/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="374">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1495016569413" expanded="true" signature="186:240" ph="..." />
+            <marker date="1495016569413" expanded="true" signature="319:337" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -7,12 +7,15 @@ class Animal:
 
 
 
-class Duck(Animal):
+class Duck(Animal): #Duck inherits from Animal
 	def __init__(self,duckName):
 		self.name = duckName
+		super(Duck, self).__init__() #constructor needs to be explicitly
+									# if required.
 
 	def quack(self):
 		print("Quack!")
+		self.animal()
 	def walk(self):
 		print("Duck Walking!")
 
