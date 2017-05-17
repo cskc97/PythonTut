@@ -38,11 +38,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="classes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="classes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tuts/classes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="41" column="32" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="41" selection-end-column="32" />
+            <state relative-caret-position="462">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tuts/generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -90,6 +100,7 @@
         <option value="$PROJECT_DIR$/githubproject/usercontributions.py" />
         <option value="$PROJECT_DIR$/githubproject/contributions.py" />
         <option value="$PROJECT_DIR$/tuts/classes.py" />
+        <option value="$PROJECT_DIR$/tuts/generator.py" />
       </list>
     </option>
   </component>
@@ -205,24 +216,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.classes">
-    <configuration default="false" name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonTut" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.generator">
     <configuration default="false" name="contributions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,6 +281,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonTut" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonTut" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -439,19 +450,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.strings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.contributions" />
-      <item index="2" class="java.lang.String" itemvalue="Python.usercontributions" />
-      <item index="3" class="java.lang.String" itemvalue="Python.classes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dictionaries" />
+      <item index="0" class="java.lang.String" itemvalue="Python.contributions" />
+      <item index="1" class="java.lang.String" itemvalue="Python.usercontributions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.classes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dictionaries" />
+      <item index="4" class="java.lang.String" itemvalue="Python.generator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.classes" />
-        <item index="1" class="java.lang.String" itemvalue="Python.dictionaries" />
-        <item index="2" class="java.lang.String" itemvalue="Python.contributions" />
-        <item index="3" class="java.lang.String" itemvalue="Python.usercontributions" />
-        <item index="4" class="java.lang.String" itemvalue="Python.strings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.generator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.classes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="3" class="java.lang.String" itemvalue="Python.contributions" />
+        <item index="4" class="java.lang.String" itemvalue="Python.usercontributions" />
       </list>
     </recent_temporary>
   </component>
@@ -462,7 +473,7 @@
     <frame x="974" y="0" width="954" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15598291" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04380342" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33547696" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -586,8 +597,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuts/classes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="41" column="32" lean-forward="false" selection-start-line="38" selection-start-column="6" selection-end-line="41" selection-end-column="32" />
+        <state relative-caret-position="462">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuts/generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding />
         </state>
       </provider>

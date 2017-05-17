@@ -10,7 +10,7 @@ class Animal:
 class Duck(Animal): #Duck inherits from Animal
 	def __init__(self,duckName,**kwargs):
 		self.name = duckName
-		super(Duck, self).__init__() #constructor needs to be explicitly
+		super().__init__() #constructor needs to be explicitly
 									# if required.
 		self.kwargDict = kwargs
 
@@ -49,5 +49,13 @@ def main():
 # But it's still a good idea to have get and set methods to access member variables
 # because you can make additional modifications to the properties of the object if required.
 
+#Inheritance:
+#class A(B) means A inherits from B
+#super() gives you access to parent class methods.
 
+#Polymorphism
+#Python is loosely typed and so doesn't care which object is utilizing what methods
+#As long as the methods you call are implemented in the classes you create
+#the objects of those classes will call those methods. There's no strict sense of polymorphism
+#like C++ or Java has.
 main();
