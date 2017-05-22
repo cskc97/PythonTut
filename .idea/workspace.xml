@@ -2,28 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7073b8dd-d290-4a67-9054-529645bbdd5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/KioskApp/app/src/main/res/drawable/kiosklogo.png" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/other.xml" />
-      <change type="NEW" beforePath="" afterPath="C:/xampp/htdocs/ECback/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/.idea/runConfigurations.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/app/src/main/java/apps/everythingforward/com/cardviewtrial/Notes.java" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/KioskApp/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/CardViewTrial/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/AndroidStudioProjects/KioskApp/app/src/main/res/drawable/kiosklogo.png" />
+      <change type="NEW" beforePath="" afterPath="C:/xampp/htdocs/ECback/.idea/vcs.xml" />
       <change type="NEW" beforePath="" afterPath="C:/xampp/htdocs/ECback/top25rankings.php" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio2.2/config/options/find.recents.xml" afterPath="$USER_HOME$/.AndroidStudio2.2/config/options/find.recents.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio2.2/config/options/instant-run.xml" afterPath="$USER_HOME$/.AndroidStudio2.2/config/options/instant-run.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/usage.statistics.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/usage.statistics.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/dimensions.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/dimensions.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/feature.usage.statistics.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/feature.usage.statistics.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/git.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/git.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/options.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/options.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/recentProjectDirectories.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/recentProjectDirectories.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/statistics.application.usages.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/statistics.application.usages.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/usage.statistics.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/usage.statistics.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/window.manager.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/window.manager.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/AndroidStudioProjects/BoMap/.idea/vcs.xml" afterPath="$USER_HOME$/AndroidStudioProjects/BoMap/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/dimensions.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/dimensions.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/test/TestClass.php" afterPath="$USER_HOME$/PhpstormProjects/test/TestClass.php" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/AndroidStudioProjects/BoMap/app/src/main/java/com/everythingforward/bomap/service/SecondDataService.java" afterPath="$USER_HOME$/AndroidStudioProjects/BoMap/app/src/main/java/com/everythingforward/bomap/service/SecondDataService.java" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.AndroidStudio2.2/config/options/find.recents.xml" afterPath="$USER_HOME$/.AndroidStudio2.2/config/options/find.recents.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/options.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/options.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/git.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/git.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/recentProjectDirectories.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/recentProjectDirectories.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/.PhpStorm2016.3/config/options/feature.usage.statistics.xml" afterPath="$USER_HOME$/.PhpStorm2016.3/config/options/feature.usage.statistics.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/PhpstormProjects/test/TestClass.php" afterPath="$USER_HOME$/PhpstormProjects/test/TestClass.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +38,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="binaryfiles.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tuts/binaryfiles.py">
+      <file leaf-file-name="sqlite.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tuts/sqlite/sqlite.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="374">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -87,6 +87,8 @@
         <option value="$PROJECT_DIR$/tuts/dictionaries.py" />
         <option value="$PROJECT_DIR$/tuts/file.py" />
         <option value="$PROJECT_DIR$/tuts/binaryfiles.py" />
+        <option value="$PROJECT_DIR$/tuts/sqlite.py" />
+        <option value="$PROJECT_DIR$/tuts/sqlite/sqlite.py" />
       </list>
     </option>
   </component>
@@ -189,6 +191,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="tuts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sqlite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PythonTut" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="githubproject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -203,28 +223,14 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santh\PycharmProjects\PythonTut\tuts\sqlite" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\santh\PycharmProjects\PythonTut\tuts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binaryfiles">
-    <configuration default="false" name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuts" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonTut" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/strings.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sqlite">
     <configuration default="false" name="listsandtuples" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -289,6 +295,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonTut" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/binaryfiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sqlite" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuts/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonTut" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuts/sqlite/sqlite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -441,19 +464,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.strings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.listsandtuples" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dictionaries" />
-      <item index="3" class="java.lang.String" itemvalue="Python.file" />
-      <item index="4" class="java.lang.String" itemvalue="Python.binaryfiles" />
+      <item index="0" class="java.lang.String" itemvalue="Python.listsandtuples" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dictionaries" />
+      <item index="2" class="java.lang.String" itemvalue="Python.file" />
+      <item index="3" class="java.lang.String" itemvalue="Python.binaryfiles" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sqlite" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.binaryfiles" />
-        <item index="1" class="java.lang.String" itemvalue="Python.file" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dictionaries" />
-        <item index="3" class="java.lang.String" itemvalue="Python.listsandtuples" />
-        <item index="4" class="java.lang.String" itemvalue="Python.strings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sqlite" />
+        <item index="1" class="java.lang.String" itemvalue="Python.binaryfiles" />
+        <item index="2" class="java.lang.String" itemvalue="Python.file" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dictionaries" />
+        <item index="4" class="java.lang.String" itemvalue="Python.listsandtuples" />
       </list>
     </recent_temporary>
   </component>
@@ -464,11 +487,11 @@
     <frame x="974" y="0" width="954" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5267094" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17200854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33547696" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -622,14 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tuts/listsandtuples.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuts/new.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-377">
@@ -653,8 +668,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tuts/binaryfiles.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="352">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuts/listsandtuples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuts/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tuts/sqlite/sqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
