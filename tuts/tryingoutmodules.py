@@ -1,5 +1,5 @@
-from .packagelookslikethis import importmepkg
-from .importme import importYaay
+from packagelookslikethis import importmepkg
+
 
 importmepkg.test()
-importYaay()
+
