@@ -1,6 +1,6 @@
 # Mocking and Unit Testing in Python. 
 
-## How mocking happens in Python. A small example with Unit Testing and Magic Mock
+### How mocking happens in Python. A small example with Unit Testing and Magic Mock
 
 #### aclass.py
     class AClass:
@@ -37,7 +37,7 @@
     if __name__=="__main__":
         unittest.main()
         
-## OUTPUT:
+#### Output:
 
     <MagicMock name='return_sum' id='4341535744'>
     .
@@ -48,7 +48,7 @@
     OK
     
     
-## Explanation:
+#### Explanation:
 
 mock_sum "mocks" the method return_sum(). printing mock_sum itself prints the object itself, which is an instance of MagicMock. Using the attribute return_value, however, testing can be done.
 
